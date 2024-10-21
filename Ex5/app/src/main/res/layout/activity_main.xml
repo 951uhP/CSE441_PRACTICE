@@ -29,7 +29,7 @@
                 android:text="Năm dương lịch:" />
 
             <EditText
-                android:id="@+id/editTextDuongLich"
+                android:id="@+id/edtDuongLich"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="Nhập năm "
